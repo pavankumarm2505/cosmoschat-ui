@@ -2,7 +2,7 @@ import React from 'react'
 
 const chat = () => {
   return (
-    <div>chat</div>
+    <div>cosmo chat ui chat</div>
   )
 }
 
